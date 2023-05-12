@@ -1,0 +1,1 @@
+{"item_embedding_dim": 150, "lr": 0.005, "batch_size": 128, "epochs": 15, "step": 3}

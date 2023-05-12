@@ -1,0 +1,1 @@
+{"item_embedding_dim": 250, "lr": 0.001, "batch_size": 128, "epochs": 10, "n_iter": 1, "dropout_gcn": 0.4, "dropout_local": 0.5}

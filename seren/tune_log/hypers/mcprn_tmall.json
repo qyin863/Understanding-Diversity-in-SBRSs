@@ -1,0 +1,1 @@
+{"item_embedding_dim": 100, "lr": 0.005, "batch_size": 50, "epochs": 25, "tau": 0.01, "purposes": 1}

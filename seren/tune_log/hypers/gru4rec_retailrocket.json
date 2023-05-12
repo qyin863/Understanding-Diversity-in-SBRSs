@@ -1,0 +1,1 @@
+{"item_embedding_dim": 300, "lr": 0.01, "batch_size": 256, "epochs": 30, "hidden_size": 200, "n_layers": 1, "dropout_input": 0.1073, "dropout_hidden": 0.1311}
