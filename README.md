@@ -31,6 +31,6 @@ journal = {ACM Trans. Inf. Syst.}
 
 ## Acknowledgements
 We refer to the following repositories to improve our code:
-
+* NARM part with [Neural-Attentive-Session-Based-Recommendation-PyTorch](https://github.com/Wang-Shuo/Neural-Attentive-Session-Based-Recommendation-PyTorch)
 
 
