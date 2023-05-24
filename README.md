@@ -32,5 +32,7 @@ journal = {ACM Trans. Inf. Syst.}
 ## Acknowledgements
 We refer to the following repositories to improve our code:
 * NARM part with [Neural-Attentive-Session-Based-Recommendation-PyTorch](https://github.com/Wang-Shuo/Neural-Attentive-Session-Based-Recommendation-PyTorch)
+* GCE-GNN part with [GCE-GNN](https://github.com/CCIIPLab/GCE-GNN)
+* Traditional non-neural methods part with [GRU4Rec](https://github.com/hidasib/GRU4Rec)
 
 
