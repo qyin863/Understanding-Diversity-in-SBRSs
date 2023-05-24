@@ -17,7 +17,7 @@ python python besttest.py --model=narm --dataset=tmall
 
 ## Citation
 Please cite the following paper if you use the above content in a research paper in any way (e.g., code and evaluation metrics):
-```bash
+```
 @article{yin2023diversity,
 author = {Yin, Qing and Fang, Hui and Sun, Zhu and Ong, Yew-Soon},
 title = {Understanding Diversity in Session-Based Recommendation},
