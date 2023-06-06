@@ -24,7 +24,7 @@ title = {Understanding Diversity in Session-Based Recommendation},
 year = {2023},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
-url = {},
+url = {https://dl.acm.org/doi/pdf/10.1145/3600226},
 journal = {ACM Trans. Inf. Syst.}
 }
 ```
